@@ -1,9 +1,9 @@
 <div align="center">
 <img src=".github/logo.png" alt="Quickemu" width="256" />
 
-# Quickemu
+# Quickemu:
 
-**Quickly create and run optimised Windows, macOS and Linux virtual machines:**
+**Quickly create and run optimised Windows, macOS and Linux virtual machines.**
 
 **Made with 💝 for <img src=".github/tux.png" align="top" width="24" alt="Tux (Linux)"/> & <img src=".github/apple.png" align="top" width="24" alt="Apple (macOS)"/>**
 </div>
@@ -40,11 +40,11 @@ required to run the virtual machines.
 - Host support for **Linux and macOS**
 - **macOS** Sonoma, Ventura, Monterey, Big Sur, Catalina & Mojave
 - **Windows** 10 and 11 including TPM 2.0
-- **Windows Server** 2022 2019 2016
+- **Windows Server** 2022, 2019 and 2016 versions
 - [Ubuntu](https://ubuntu.com/desktop) and all the **[official Ubuntu
   flavours](https://ubuntu.com/download/flavours)**
 - **Nearly 1000 operating system editions are supported!**
-- Full SPICE support including host/guest clipboard sharing
+- Full SPICE support, including host/guest clipboard sharing is available
 - VirtIO-webdavd file sharing for Linux and Windows guests
 - VirtIO-9p file sharing for Linux and macOS guests
 - [QEMU Guest Agent
@@ -68,7 +68,7 @@ The presenters of Linux Matters 🐧🎙️ are the creators of each of the prin
 <div align="center">
   <a href="https://linuxmatters.sh" target="_blank"><img src="https://github.com/wimpysworld/nix-config/raw/main/.github/screenshots/linuxmatters.png" alt="Linux Matters Podcast"/></a>
   <br />
-  <em>Linux Matters Podcast</em>
+  <em><b>Linux Matters Podcast<b></em>
 </div>
 
 # Quick start
@@ -99,7 +99,7 @@ Execute `quickget` (with no arguments) to see a list of all the supported operat
 
 # Documentation
 
-The wiki describes how to get up and running with Quickemu and also covers more advanced configuration and usage.
+The wiki describes how to get up and start running with Quickemu while also covering more advanced configuration and usage.
 
 - [**Installation**](https://github.com/quickemu-project/quickemu/wiki/01-Installation) 💾
 - [**Create Linux virtual machines**](https://github.com/quickemu-project/quickemu/wiki/02-Create-Linux-virtual-machines) 🐧
